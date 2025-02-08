@@ -1,4 +1,7 @@
 # Cronos
+![Cronos Logo](https://github.com/user-attachments/assets/8eb6f5f2-6420-483b-9cb3-c02c185fab7f)
+
+
 O projeto Cronos é uma aplicação de software mobile voltada, primariamente, ao ambiente acadêmico, com utilidade especial (mas não restrita) à rotina universitária.
 
 A vida de universitário é frequentemente caótica: trabalhos a ser entregues, provas para estudar e diversas outras responsabilidades. Nesse âmbito, estudantes constantemente encontram dificuldades em coordenar seus muitos afazeres e, consequentemente, obtêm resultados pouco satisfatórios em seus percursos acadêmicos; problema, em grande parte, devido à simples desorganização da rotina de estudos.
